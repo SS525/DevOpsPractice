@@ -1,4 +1,7 @@
-invoke the script in Linux terminal
+# DevOps practice projects
 
-Project page
-https://roadmap.sh/projects/server-stats
+### List of projects
+
+
+1. **Server statistics:** https://roadmap.sh/projects/server-stats
+2. **Archiving logs:** https://roadmap.sh/projects/log-archive-tool
